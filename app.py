@@ -125,7 +125,7 @@ if page == "Home":
             </h5>
             <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
             <h6 style="color: #110301; font-family: 'Montserrat', sans-serif; font-weight: normal; text-align: center;">
-                Discover make up products and skincare solutions that align perfectly with individual skin goals.
+                Discover make up products and skincare solutions that align perfectly with your skin goals.
             </h6>
         </div>
         """, unsafe_allow_html=True)
